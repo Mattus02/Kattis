@@ -1,3 +1,5 @@
+// Problem: https://open.kattis.com/problems/knigsoftheforest
+
 #include <iostream>
 #include <vector>
 #include <queue>
